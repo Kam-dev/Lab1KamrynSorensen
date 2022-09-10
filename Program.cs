@@ -7,6 +7,8 @@
     TestLimits();
     // The call to the WorkWithDoubles method
     WorkWithDoubles();
+    // The call to the WorkWithDecimals method
+    WorkWithDecimals();
 
     // The declaration and definition of the WorkWithIntegers method
     void WorkWithIntegers()
@@ -100,4 +102,19 @@
         double m = 0.3;
         double n = (m + l) / l;
         Console.WriteLine(n);
+    }
+
+    void WorkWithDecimals()
+    {
+        decimal min = decimal.MinValue;
+        decimal max = decimal.MaxValue;
+        Console.WriteLine($"The range of the decimal type is {min} to {max}");
+
+        double a = 1.0;
+        double b = 3.0;
+        Console.WriteLine(a / b);
+
+        decimal c = 1.0M;
+        decimal d = 3.0M;
+        Console.WriteLine(c / d);
     }
