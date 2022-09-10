@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amyso\\source\\repos\\lab1\\Lab1KamrynSorensen\\Lab1KamrynSorensen.csproj",
+      "projectUniqueName": "C:\\Users\\amyso\\source\\repos\\Lab1KamrynSorensen\\Lab1KamrynSorensen.csproj",
       "projectName": "Lab1KamrynSorensen",
-      "projectPath": "C:\\Users\\amyso\\source\\repos\\lab1\\Lab1KamrynSorensen\\Lab1KamrynSorensen.csproj",
+      "projectPath": "C:\\Users\\amyso\\source\\repos\\Lab1KamrynSorensen\\Lab1KamrynSorensen.csproj",
       "packagesPath": "C:\\Users\\amyso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amyso\\source\\repos\\lab1\\Lab1KamrynSorensen\\obj\\",
+      "outputPath": "C:\\Users\\amyso\\source\\repos\\Lab1KamrynSorensen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amyso\\AppData\\Roaming\\NuGet\\NuGet.Config"
