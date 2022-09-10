@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information 
     // The call to the WorkWithIntegers method
-    // WorkWithIntegers();
+    WorkWithIntegers();
     // The call to the OrderPrecedence method
     OrderPrecedence();
     // The call to the TestLimits method
@@ -9,6 +9,11 @@
     WorkWithDoubles();
     // The call to the WorkWithDecimals method
     WorkWithDecimals();
+
+    // The below three lines of code calculate the area of a circle whose radius in this case is 2.50 centimeters.
+    double radius = 2.50;
+    double area = Math.PI * radius * radius;
+    Console.WriteLine(area);
 
     // The declaration and definition of the WorkWithIntegers method
     void WorkWithIntegers()
